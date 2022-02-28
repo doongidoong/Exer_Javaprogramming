@@ -8,7 +8,6 @@ class Student {
         studentID = id;
         studentName = name;
     }
-
     public Student(int id) {
         studentID = id;
     }
